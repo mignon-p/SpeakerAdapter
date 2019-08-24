@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/ppelleti/cad/SpeakerAdapter/SpeakerAdapter.sch)
-    (date "Sat 24 Aug 2019 01:32:18 PM PDT")
+    (date "Sat 24 Aug 2019 04:56:18 PM PDT")
     (tool "Eeschema 5.0.2-bee76a0~70~ubuntu16.04.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -17,7 +17,7 @@
   (components
     (comp (ref J1)
       (value "Terminal Block")
-      (footprint TerminalBlock_4Ucon:TerminalBlock_4Ucon_1x04_P3.50mm_Horizontal)
+      (footprint local:TerminalBlock_4Ucon_1x04_P3.50mm_Horizontal)
       (datasheet ~)
       (fields
         (field (name Description) "TERM BLK 4POS SIDE ENT 3.5MM PCB")
