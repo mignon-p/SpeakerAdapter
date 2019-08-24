@@ -37,7 +37,7 @@
     (46 B.CrtYd user)
     (47 F.CrtYd user)
     (48 B.Fab user)
-    (49 F.Fab user)
+    (49 F.Fab user hide)
   )
 
   (setup
@@ -116,12 +116,12 @@
     (add_net "Net-(J1-Pad4)")
   )
 
-  (module TerminalBlock_4Ucon:TerminalBlock_4Ucon_1x04_P3.50mm_Horizontal (layer F.Cu) (tedit 5B294E91) (tstamp 5D61EAAB)
-    (at 156.295001 66.155001)
+  (module TerminalBlock_4Ucon:TerminalBlock_4Ucon_1x04_P3.50mm_Horizontal (layer F.Cu) (tedit 5D61929C) (tstamp 5D61EAAB)
+    (at 154.75 60)
     (descr "Terminal Block 4Ucon ItemNo. 20001, 4 pins, pitch 3.5mm, size 14.7x7mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see http://www.4uconnector.com/online/object/4udrawing/20001.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon")
     (tags "THT Terminal Block 4Ucon ItemNo. 20001 pitch 3.5mm size 14.7x7mm^2 drill 1.2mm pad 2.4mm")
     (path /5D7189D5)
-    (fp_text reference J1 (at 5.25 -4.46) (layer F.SilkS)
+    (fp_text reference J1 (at 5.25 -4.46) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value "Terminal Block" (at 5.25 4.66) (layer F.Fab)
@@ -222,12 +222,12 @@
     )
   )
 
-  (module Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical (layer F.Cu) (tedit 5B7745C2) (tstamp 5D61EADF)
-    (at 156.145001 72.505001)
+  (module Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical (layer F.Cu) (tedit 5D619298) (tstamp 5D61EADF)
+    (at 157 67)
     (descr "JST PH series connector, B4B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator")
     (tags "connector JST PH side entry")
     (path /5D619CD2)
-    (fp_text reference J2 (at 3 -2.9) (layer F.SilkS)
+    (fp_text reference J2 (at 3 -2.9) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value JST-PH (at 3 4) (layer F.Fab)
