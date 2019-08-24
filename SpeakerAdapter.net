@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/ppelleti/cad/SpeakerAdapter/SpeakerAdapter.sch)
-    (date "Sat 24 Aug 2019 12:35:18 PM PDT")
+    (date "Sat 24 Aug 2019 01:32:18 PM PDT")
     (tool "Eeschema 5.0.2-bee76a0~70~ubuntu16.04.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -28,12 +28,12 @@
       (tstamp 5D7189D5))
     (comp (ref J2)
       (value JST-PH)
-      (footprint Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical)
+      (footprint Connector_JST:JST_PH_S4B-PH-K_1x04_P2.00mm_Horizontal)
       (datasheet http://www.jst-mfg.com/product/pdf/eng/ePH.pdf)
       (fields
-        (field (name Description) "CONN HEADER VERT 4POS 2MM")
-        (field (name Digi-Key_PN) 455-1706-ND)
-        (field (name MPN) "B4B-PH-K-S(LF)(SN)"))
+        (field (name Description) "CONN HEADER R/A 4POS 2MM")
+        (field (name Digi-Key_PN) 455-1721-ND)
+        (field (name MPN) "S4B-PH-K-S(LF)(SN)"))
       (libsource (lib Connector_Generic) (part Conn_01x04) (description "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"))
       (sheetpath (names /) (tstamps /))
       (tstamp 5D619CD2)))
