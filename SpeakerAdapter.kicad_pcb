@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 0)
+    (drawings 4)
     (tracks 0)
     (zones 0)
     (modules 2)
@@ -293,5 +293,10 @@
       (rotate (xyz 0 0 0))
     )
   )
+
+  (gr_line (start 153 70) (end 153 58) (layer Edge.Cuts) (width 0.15))
+  (gr_line (start 167 70) (end 153 70) (layer Edge.Cuts) (width 0.15))
+  (gr_line (start 167 58) (end 167 70) (layer Edge.Cuts) (width 0.15))
+  (gr_line (start 153 58) (end 167 58) (layer Edge.Cuts) (width 0.15))
 
 )
