@@ -7,6 +7,8 @@ blocks.
 
 ![Music Maker FeatherWing with Speakers](photos/Music-Maker-with-Speakers.jpg)
 
+[Order board from OSH Park][5] ($1.70 for three copies of the board, with free shipping)
+
 ## Bill of Materials
 
 * [Horizontal JST-PH connector][4]
@@ -27,3 +29,4 @@ boards together.  Then, solder the JST-PH connector in place.
 [2]: https://www.adafruit.com/product/1669
 [3]: https://www.adafruit.com/product/3436
 [4]: https://www.digikey.com/products/en?keywords=455-1721-ND
+[5]: https://oshpark.com/shared_projects/vhWQE0V6
