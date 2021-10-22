@@ -25,7 +25,7 @@ boards together.  Then, solder the JST-PH connector in place.
 
 ![Speaker Adapter bottom](photos/Speaker-Adapter-bottom.jpg)
 
-[1]: http://kicad-pcb.org/
+[1]: http://kicad.org/
 [2]: https://www.adafruit.com/product/1669
 [3]: https://www.adafruit.com/product/3436
 [4]: https://www.digikey.com/products/en?keywords=455-1721-ND
